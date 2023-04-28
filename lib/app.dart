@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:number_generator_app/view/number_generator_view.dart';
+import 'view/number_generator.dart';
 
 
 class App extends StatelessWidget {
